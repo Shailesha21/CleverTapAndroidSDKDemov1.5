@@ -42,7 +42,7 @@ The application includes the following features as per the assignment requiremen
 
 
 ## Documentation Referenced
-* CleverTap Android Quickstart Guide: `https://developer.clevertap.com/docs/android-quickstart-guide` [cite: 1]
-* CleverTap Android SDK: `https://developer.clevertap.com/docs/android` [cite: 1]
-* CleverTap User Profiles: `https://developer.clevertap.com/docs/concepts-user-profiles` [cite: 1]
-* CleverTap Android Push Notifications: `https://developer.clevertap.com/docs/android-push` [cite: 1]
+* CleverTap Android Quickstart Guide: `https://developer.clevertap.com/docs/android-quickstart-guide`
+* CleverTap Android SDK: `https://developer.clevertap.com/docs/android`
+* CleverTap User Profiles: `https://developer.clevertap.com/docs/concepts-user-profiles` 
+* CleverTap Android Push Notifications: `https://developer.clevertap.com/docs/android-push` 
